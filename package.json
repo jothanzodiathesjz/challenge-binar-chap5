@@ -1,0 +1,19 @@
+{
+  "name": "challenge-chap5",
+  "version": "1.0.0",
+  "description": "challenge Binar chap-5",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "JothanZ",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.18"
+  }
+}
